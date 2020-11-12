@@ -4,6 +4,8 @@ class QuizEnd extends Component {
   constructor(props) {
     super(props);
   }
+  showNextQuestion = () => {};
+
   render() {
     return (
       <div>
